@@ -1,7 +1,7 @@
 <template>
     <div>
-      <h3>Öğrenci Bilgi Sayfası</h3>
-      <p>Öğrenci ID: {{id}}</p>
+      <h3>Student Information Page</h3>
+      <p>Student ID: {{id}}</p>
     </div>
   </template>
   

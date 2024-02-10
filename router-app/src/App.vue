@@ -6,9 +6,9 @@
       <router-link :to="{name:'students'}">Students</router-link>
     </nav>
     <div>
-      <span @click="anasayfa">Anasayfa</span>
-      <span @click="geri">Geri</span>
-      <span @click="ileri">İleri</span>
+      <span @click="anasayfa">Main Page</span>
+      <span @click="geri">Back</span>
+      <span @click="ileri">Forward</span>
     </div>
     <router-view/>
   </div>

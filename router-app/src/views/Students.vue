@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Öğrenciler</h1>
+      <h1>Students</h1>
       <div v-for="student in students" :key="student.id">
         <router-link :to="{name:'studentInfo',params:{id:student.id}}">{{student.name}}</router-link>
       </div>

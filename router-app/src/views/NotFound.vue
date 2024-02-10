@@ -1,5 +1,5 @@
 <template>
-    <h1>Sayfa Bulunamadı!</h1>
+    <h1>404 NOT FOUND!</h1>
   </template>
   
   <script>
